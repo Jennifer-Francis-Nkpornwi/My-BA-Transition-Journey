@@ -1,6 +1,7 @@
 # 💼 My-BA-Transition-Journey - April to August 2025
 
 Welcome to my Business Analysis Portfolio! 👋  
+
 I’m Jennifer Francis-Nkpornwi, a Sales Personnel and Data Enthusiast transitioning into Business Analysis.
 Over the past few months, I’ve been building my skills through hands-on projects and study activities to deepen my understanding of business analysis tools and techniques. This portfolio showcases my progress through structured weekly tasks, real-world mock projects, and documented learnings.
 ---
@@ -36,12 +37,14 @@ You’ll find:
 ---
 📌** Projects Featured**
 - 🏡 Renzo Property Management Digital Solution  : (https://empire-client-c42cada0c36d.herokuapp.com/home)
+  
 A mock resident web platform designed to manage property requests, bookings, and communication with estate management.
 ---
 
 🔗 Let's Connect
 
 📩 Jennifer.ezeanyim@gmail.com
+
 🔗 www.linkedin.com/in/jenniferfrancis-nkpornwi
 
 📍 Open to feedback, collaborations, and BA opportunities!
