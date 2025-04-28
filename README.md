@@ -3,6 +3,7 @@
 Welcome to my Business Analysis Portfolio! 👋  
 
 I’m Jennifer Francis-Nkpornwi — a Sales Personnel and Data Enthusiast transitioning into Business Analysis.
+[📖 Read My Transition Story into Business Analysis](https://github.com/Jennifer-Francis-Nkpornwi/My-BA-Transition-Journey/blob/main/intro-story/My_Transition_Into_Business_Analysis.md)
 
 Over the past few months, I’ve been building my skills through team-based, hands-on projects and study activities. I’ve worked on a real-world mock projects and collaborated with fellow beginners to deepen my understanding of business analysis tools and techniques.
 
