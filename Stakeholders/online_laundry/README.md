@@ -1,5 +1,7 @@
 Stakeholder Analysis – Online Laundry Pickup & Delivery App
+
 Project Overview
+
 This document contains a stakeholder analysis for a fictional project titled **"FreshFold" – An Online Laundry Pickup & Delivery System**. 
 The platform allows customers to schedule laundry services, choose delivery options, make payments, and track progress, helping a local business streamline its operations.
 ---
