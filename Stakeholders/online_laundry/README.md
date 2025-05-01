@@ -25,6 +25,9 @@ Identified Stakeholders:
 | Customer Service         | Low    | High     | Keep Informed             |
 | Pickup/Delivery Person   | Low    | Low      | Monitor                   
 ---
+
+![Stakeholder Power Grid](./stakeholder-power-grid.png)
+
  Notes:
 - This analysis helps define how each stakeholder should be engaged throughout the project.
 - Created as part of my personal BA portfolio to demonstrate stakeholder classification and engagement planning.
