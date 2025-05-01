@@ -26,7 +26,7 @@ Identified Stakeholders:
 | Pickup/Delivery Person   | Low    | Low      | Monitor                   
 ---
 
-![Stakeholder Power Grid](./stakeholder-power-grid.png)
+![Stakeholder Power Grid](https://github.com/Jennifer-Francis-Nkpornwi/My-BA-Transition-Journey/blob/main/Stakeholders/online_laundry/Stakeholder%20Power%20Grid.png)
 
  Notes:
 - This analysis helps define how each stakeholder should be engaged throughout the project.
