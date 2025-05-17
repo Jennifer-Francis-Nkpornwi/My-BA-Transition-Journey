@@ -15,6 +15,6 @@ This process flow diagram shows how products move from the Head Office to the An
 
 ## 🖼️ Process Flow Diagram
 
-![Inventory Process Flow](./inventory-process-flow.png)
+
 <img width="484" alt="inventory-process-flow" src="https://github.com/user-attachments/assets/23b77ec0-fbd2-4321-be34-3b4b30786d2f" />
 
