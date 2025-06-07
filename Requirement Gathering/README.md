@@ -1,7 +1,9 @@
-## 📌 Requirement Gathering – MoveMate Fitness App
+## 📌 Requirement Gathering
 
-This folder contains business analysis documentation from my Requirements Gathering deep dive, including stakeholder workshop 
-techniques and prototyping.
+This folder contains Business Analysis artifacts focused on the Requirements Gathering phase, including:
 
-✅ Documented BRD for a fitness app called *MoveMate*, aimed at helping users track fitness goals, monitor progress, and stay 
-motivated.
+- 📄 Business Requirements Documents (BRDs)
+- 🧩 Use Cases
+- 🗣️ Elicitation Techniques & Samples (e.g., stakeholder workshops, prototyping)
+
+These documents showcase hands-on learning and application of key BA skills like stakeholder engagement, requirement documentation, and solution discovery — all part of my transition into Business Analysis.
