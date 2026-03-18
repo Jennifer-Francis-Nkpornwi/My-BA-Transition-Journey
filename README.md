@@ -1,4 +1,4 @@
-# 💼 My BA Transition Journey — April to August 2025
+# 💼 My BA Transition Journey
 
 Welcome to my Business Analysis Portfolio! 👋  
 
