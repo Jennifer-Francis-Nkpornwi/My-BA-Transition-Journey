@@ -1,0 +1,55 @@
+# STAKEHOLDER ANALYSIS: ONLINE LAUNDRY PICKUP & DELIVERY APP
+
+## PROJECT OVERVIEW
+This document presents a stakeholder analysis for "FreshFold" – an Online Laundry Pickup & Delivery System.
+
+The platform enables customers to schedule laundry services, select delivery options, make payments, and track order progress. The goal is to improve operational efficiency and enhance customer experience for a local laundry business.
+
+---
+
+## IDENTIFIED STAKEHOLDERS
+
+- Laundry Shop Owner  
+- App Developer  
+- Finance Personnel  
+- Customers  
+- Laundry Staff  
+- Customer Service Team  
+- Pickup/Delivery Personnel  
+
+---
+
+## STAKEHOLDER ANALYSIS MATRIX
+
+| Stakeholder              | Power | Interest | Engagement Strategy |
+|--------------------------|--------|----------|----------------------|
+| Laundry Shop Owner       | High   | High     | Manage Closely       |
+| App Developer            | High   | High     | Manage Closely       |
+| Finance Personnel        | High   | Low      | Keep Satisfied       |
+| Customers                | Low    | High     | Keep Informed        |
+| Laundry Staff            | Low    | High     | Keep Informed        |
+| Customer Service Team    | Low    | High     | Keep Informed        |
+| Pickup/Delivery Personnel| Low    | Low      | Monitor              |
+
+---
+
+## KEY INSIGHTS
+
+- The Laundry Shop Owner is the primary decision-maker and must be actively engaged throughout the project.  
+- The App Developer plays a critical role in system implementation and requires clear, detailed requirements.  
+- Customers are highly interested in the service and their feedback is essential for improving user experience.  
+- Operational staff (Laundry Staff and Delivery Personnel) are key to execution and should be considered during process design.  
+
+---
+
+## STAKEHOLDER POWER-INTEREST GRID
+
+A visual representation of stakeholder positioning based on power and interest is shown below:
+
+
+
+---
+
+## CONCLUSION
+
+Effective stakeholder engagement will ensure the successful delivery of the FreshFold system by aligning business goals with user needs and operational capabilities.
