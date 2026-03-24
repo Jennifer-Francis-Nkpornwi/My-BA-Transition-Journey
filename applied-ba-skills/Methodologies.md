@@ -10,7 +10,7 @@ environments.
 Agile vs Waterfall Comparison Chart
 
 This is part of my transition portfolio into Business Analysis, where I share not just what I know—but how I apply it.
-![Agile vs Waterfall Chart](Agile-vs-Waterfall-comparison-chart)
+![Agile vs Waterfall Chart](Agile-vs-Waterfall-comparison-chart.png)
 
 Over the course of my career, these are situations where I would have chosen Agile over Waterfall if such situations had 
 arisen: 
