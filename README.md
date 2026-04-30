@@ -4,7 +4,6 @@ Welcome to my Business Analysis Portfolio! 👋
 
 I’m Jennifer Francis-Nkpornwi — a Sales Personnel and Data Enthusiast transitioning into Business Analysis.
 
-[📖 Read My Transition Story into Business Analysis] (https://github.com/Jennifer-Francis-Nkpornwi/My-BA-Transition-Journey/blob/main/intro-story/My%20background%20and%20How%20I%20transitioned%20into%20BA)
 
 Over the past few months, I’ve been building my skills through team-based, hands-on projects and study activities. I’ve worked on a real-world mock projects and collaborated with fellow beginners to deepen my understanding of business analysis tools and techniques.
 
@@ -21,26 +20,6 @@ As I grow in the Business Analysis field, this space will become a home for:
 - 🎯 Project samples that simulate real-world analysis  
 
 I hope it inspires others on their journey — and gives insight into my capabilities, progress, and growth mindset.
-
----
-
-## 📁 What You’ll Find Here
-
-| Folder | Description |
-|--------|-------------|
-| `intro-story/` | My background and how I transitioned into BA |
-| `methodologies/` | Agile vs Waterfall comparisons and notes |
-| `stakeholders/` | Stakeholder maps and interview prep tools |
-| `process-flows/` | Business process flow diagrams |
-| `root-cause/` | 5 Whys and Root Cause Analysis examples |
-| `requirement-gathering/` | Use Cases, BRDs, and elicitation samples |
-| `user-stories/` | Epics, user stories, and acceptance criteria |
-| `features-breakdown/` | Breaking down HLRs into features/stories |
-| `documents/` | BRDs, scope docs, and structured documentation |
-| `wireframes/` | Mock wireframes for real estate platform UI |
-| `use-cases/` | Use Case diagrams and actor flows |
-| `presentations/` | Slide decks for stakeholder communication |
-| `portfolio-summary/` | Final reflections and what I’ve learned |
 
 ---
 
